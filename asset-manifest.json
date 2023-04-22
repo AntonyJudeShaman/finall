@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/finall/static/css/main.b3068f85.css",
+    "main.js": "/finall/static/js/main.77d4c7b1.js",
+    "static/js/787.5062f97c.chunk.js": "/finall/static/js/787.5062f97c.chunk.js",
+    "static/media/Running1.jpg": "/finall/static/media/Running1.763fa84cf57615660be0.jpg",
+    "static/media/cycling3.jpg": "/finall/static/media/cycling3.b306f974d200f4e322b1.jpg",
+    "static/media/bcycle.jpg": "/finall/static/media/bcycle.0e7f9561f0f8fdf50562.jpg",
+    "static/media/sss.jpg": "/finall/static/media/sss.0471650dbcf09910d369.jpg",
+    "static/media/bgpic.png": "/finall/static/media/bgpic.0abb6d8fc4d4370bb112.png",
+    "static/media/run3.png": "/finall/static/media/run3.5c7849ac1c6cbfbbea79.png",
+    "static/media/cycle2.png": "/finall/static/media/cycle2.a2933f9824a2095db459.png",
+    "static/media/swim3.png": "/finall/static/media/swim3.049cbbb5ad461d8adccc.png",
+    "static/media/logo1.png": "/finall/static/media/logo1.43db76a427b2e3c0c5cc.png",
+    "static/media/swim1.png": "/finall/static/media/swim1.9ea14ac2feeb77edae90.png",
+    "static/media/cycle1.png": "/finall/static/media/cycle1.185076cbde53cc05e890.png",
+    "index.html": "/finall/index.html",
+    "main.b3068f85.css.map": "/finall/static/css/main.b3068f85.css.map",
+    "main.77d4c7b1.js.map": "/finall/static/js/main.77d4c7b1.js.map",
+    "787.5062f97c.chunk.js.map": "/finall/static/js/787.5062f97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3068f85.css",
+    "static/js/main.77d4c7b1.js"
+  ]
+}
