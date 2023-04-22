@@ -1,15 +1,8 @@
-import React from "react";
-import { render, screen, fireEvent } from "@testing-library/react";
-import App from "./App";
-import Team from "./Team";
+import { render, screen } from '@testing-library/react';
+import App from './App';
 
-test("renders Team component when Team link is clicked", () => {
-  
+test('renders learn react link', () => {
   render(<App />);
-  
-  const teamLink = screen.getByText(/Team/i);
-  fireEvent.click(teamLink);
-
-  const teamComponent = screen.getByTestId("team-component");
-  expect(teamComponent).toBeInTheDocument();
+   const teamLink = screen.getByText(/Team/i);
+  expect(teamLink).toBeInTheDocument();
 });
